@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83eafa754c18f04d9db34bd228be449, type: 3}
+  m_Name: game_config
+  m_EditorClassIdentifier: 
+  collectablePrefab: {fileID: 2643420407650746561, guid: 2928cf6573b31014ba08a65c2649dbbb, type: 3}
+  livesCount: 3
+  spawnPosition: {x: 0, y: 5}
+  uiConfig: {fileID: 11400000, guid: 594d83033d58b2c4f81eea153f575f70, type: 2}
